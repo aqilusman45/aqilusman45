@@ -128,9 +128,13 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | One-line description of what it does | Python, OpenAI, FastAPI |
-| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | One-line description of what it does | React Native, Twilio |
-| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | One-line description of what it does | n8n, LangChain |
+| **[AI CRM Sales Automation System](#)** | Enterprise AI-powered CRM that enables conversational sales workflows, contact management, meeting notes, AI email generation, follow-ups, and workflow automation through Claude AI. | React, Next.js, NestJS, PostgreSQL, Redis, BullMQ, Claude AI, OpenAI, AWS |
+| **[LinkedIn AI Content Operating System](#)** | AI platform that researches topics, generates personalized LinkedIn content, monitors industry news, recommends publishing opportunities, and automates content operations. | React, Next.js, Supabase, OpenAI, Claude, Gemini |
+| **[Adsmith](https://app.adsmith.ai/)** | AI-powered marketing automation platform for generating personas, ad copy, images, and campaigns across Google & Meta Ads using multiple AI models. | React, TypeScript, Supabase, OpenAI, Gemini, Ideogram, Recraft, Stripe |
+| **[EHS Navigator](https://app.ehsnavigator.com/)** | Enterprise multi-tenant SaaS platform for incident management, investigations, OSHA reporting, document management, and operational analytics. | React, NestJS, PostgreSQL, Redis, BullMQ, Docker, AWS |
+| **[ToryOS](https://toryos.com/)** | AI-powered brokerage operating system featuring AI assistants, voice & text chat, document Q&A (RAG), contract generation, workflow automation, and knowledge management. | React, Supabase, OpenAI, Gemini, Lovable |
+| **[Architect Render](https://app.architectrender.com/)** | AI-powered rendering platform that transforms architectural concepts into professional-quality renders through multiple AI services and scalable processing pipelines. | Next.js, GCP, Gemini, Decor8, Freepik, Stripe |
+| **[Victoria AI](https://heyvictoria.ai/)** | AI assistant platform enabling voice and chat interactions, AI workflow automation, request routing, notifications, and business process execution. | React, Firebase, OpenAI, AssemblyAI, Twilio |
 
 ---
 
