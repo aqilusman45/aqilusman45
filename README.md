@@ -40,8 +40,6 @@
   <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat" />
 </p>
 
----
-
 ### 🧰 AI Development Tools
 
 <p>
