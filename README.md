@@ -76,8 +76,7 @@ ProjectDescriptionTechProject NameOne-line description of what it doesPython, Op
 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=googlechrome" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/usman-aqil"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.upwork.com/freelancers/usmanaqil"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=googlechrome" /></a>
+  <a href="mailto:usman@anglebrackets.io"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
