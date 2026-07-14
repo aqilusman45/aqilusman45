@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm USMAN</h1>
-<h3 align="center">AI Developer | AI SaaS Developer | AI Agents | Voice AI | Mobile Apps | Automation</h3>
+<h3 align="center">AI Developer | AI SaaS Developer | AI Agents | Voice AI | Mobile Apps | Automation Engineer</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aqilusman45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/usman-aqil">
