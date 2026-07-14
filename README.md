@@ -58,9 +58,15 @@ Automation & Infra
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 </p>
 
-🎯 Featured Projects
+### 🎯 Featured Projects
 
-ProjectDescriptionTechProject NameOne-line description of what it doesPython, OpenAI, FastAPIProject NameOne-line description of what it doesReact Native, TwilioProject NameOne-line description of what it doesn8n, LangChain
+| Project | Description | Tech |
+|---|---|---|
+| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | One-line description of what it does | Python, OpenAI, FastAPI |
+| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | One-line description of what it does | React Native, Twilio |
+| **[Project Name](https://github.com/YOUR_USERNAME/repo)** | One-line description of what it does | n8n, LangChain |
+
+---
 
 
 📊 GitHub Stats
